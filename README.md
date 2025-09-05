@@ -6,4 +6,18 @@
 5. Настраиваемая горячая клавиша для переключения работы (по умолчанию F6),
 6. Выбор задержки между кликами (В милисекундах),
 7. Есть режим без задержки, в задержке поставить 0 (может сильно грузить процессор)
-<img width="382" height="324" alt="image" src="https://github.com/user-attachments/assets/64f452ca-24af-40ab-af80-c0fb930073f9" />
+<p align="center">Первый режим</p>
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/user-attachments/assets/64f452ca-24af-40ab-af80-c0fb930073f9"> 
+</p>
+<p align="center">Второй режим</p>
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/user-attachments/assets/147de573-7e01-4951-a84b-e6f96f334581"> 
+</p>
+<p align="center">Третий режим</p>
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/user-attachments/assets/72248111-532a-41ae-b4dc-94b52ad87c01"> 
+</p>
+
+
+P.S. Есть возможность каких-то оставшихся ошибок.
