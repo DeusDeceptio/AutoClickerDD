@@ -32,7 +32,7 @@
 - [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework) или выше (обычно уже установлен в Windows)
 
 ## Установка
-1. Скачайте последнюю версию из раздела [Releases](https://github.com/ваш-репозиторий/releases)
+1. Скачайте последнюю версию из раздела [Releases](https://github.com/AutoClickerDD/releases)
 2. Запустите `AutoClickerDD.exe` (не требует установки)
 
 ## Возможные ошибки
